@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML & CSS Sandbox - Form Input</title>
+</head>
+
+<body>
+    <h1>HTML & CSS Sandbox - Label & TextBased Input Tags</h1>
+    <form>
+        <div>
+            <label for="name">Name</label>
+            <input type="text" id="name" placeholder="Enter Name" value="Sifat" name="name" required minlength="3"
+                maxlength="10" />
+        </div>
+        <br />
+        <div>
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="Enter email" name="email" required
+                value="mdabdurrahmansifat@gmail.com" disabled />
+        </div>
+        <br />
+        <div>
+            <label for="password">Password</label>
+            <input type="password" id="password" placeholder="Enter password" name="password" required minlength="6" />
+        </div>
+        <br />
+        <div>
+            <!-- <input type="submit" value="Submit"> -->
+            <button type="submit"> Submit</button>
+        </div>
+
+    </form>
+</body>
+
+</html>
