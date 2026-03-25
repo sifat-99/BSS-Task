@@ -1,0 +1,52 @@
+ body {
+     font-family: 'Poppins', sans-serif;
+ }
+
+
+ .box {
+     width: 200px;
+     height: 200px;
+     background: lightblue;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     border: 1px solid black;
+     margin: 10px;
+ }
+
+ .box-1 {
+     position: static;
+     left: 30px;
+ }
+
+ .box-2 {
+     position: relative;
+     left: 30px;
+     top: 20px;
+ }
+
+ .box-3 {
+     position: fixed;
+     top: 0;
+     right: 0;
+     z-index: 2;
+ }
+
+ .box-4 {
+     position: sticky;
+     top: 200px;
+ }
+
+ .box-5 {
+     position: relative;
+     width: 600px;
+     height: 600px;
+     background-color: coral;
+     z-index: 1;
+ }
+
+ .box-6 {
+     position: absolute;
+     bottom: 20px;
+     right: 20px;
+ }
