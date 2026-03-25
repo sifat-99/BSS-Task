@@ -1,0 +1,51 @@
+html,
+body {
+    font-family: Arial, sans-serif;
+    border: 3px solid red;
+}
+
+/* h2 {
+    color: red;
+    font-size: 30px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+} */
+/* This is class selectors */
+.sporty {
+    color: red;
+}
+
+.casual {
+    color: blue;
+}
+
+.formal {
+    color: brown;
+}
+
+/* this is ID selectors */
+
+#container {
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+}
+
+
+.sporty,
+.casual {
+    font-size: 35px;
+}
+
+p {
+    /* background: red; */
+}
+
+/* Descedant styles */
+
+#container p {
+    /* background: blue; */
+}
