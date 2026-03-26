@@ -1,0 +1,27 @@
+ul li:first-child {
+    background-color: lightblue;
+}
+
+ul li:last-child {
+    background: lightcoral;
+}
+
+ul li:nth-child(odd) {
+    background: lightgray;
+}
+
+ul li:nth-child(even) {
+    background: lightgreen;
+}
+
+ul li:nth-child(9) {
+    background: lightcoral;
+}
+
+ul li:nth-child(4n) {
+    background: orange;
+}
+
+ul li:only-child {
+    background: black;
+}
