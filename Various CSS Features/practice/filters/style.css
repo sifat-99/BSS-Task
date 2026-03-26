@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    max-width: 900px;
+    margin: 70px auto;
+}
+
+img {
+    max-width: 100%;
+    /* -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    -ms-filter: grayscale(100%); */
+    /* filter: grayscale(100%) */
+    /* filter: blur(50px); */
+    /* filter: brightness(200%); */
+    /* filter: contrast(50%); */
+    /* filter: drop-shadow(10px 10px 5px red); */
+    /* filter: hue-rotate(50deg); */
+    /* filter: invert(100%); */
+    /* filter: opacity(50%); */
+    /* filter: saturate(200%); */
+    /* filter: sepia(100%); */
+
+
+    /* Chain Filter */
+
+    filter: grayscale(100%) blur(5px);
+
+}
