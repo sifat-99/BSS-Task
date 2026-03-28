@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.logo {
+    max-width: 60%;
+    transition: all 0.9s;
+}
+
+.logo:hover {
+    transform: rotate(-90deg);
+    /* transform: translateY(200px); */
+    transform: translate(200px, 200px);
+    transform: skew(30deg);
+    transform: scale(0.5);
+    transform: rotate(180deg) translateX(100px) scale(0.2);
+}
