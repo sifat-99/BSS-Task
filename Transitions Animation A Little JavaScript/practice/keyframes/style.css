@@ -6,33 +6,63 @@ body {
 
 .container {
     max-width: 1200px;
-    margin: 30px auto;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .box {
     width: 100px;
     height: 100px;
-    background: coral;
-    animation: animate1 2s;
-    animation-fill-mode: forwards;
-    /* animation-delay: 2s; */
-    animation-iteration-count: infinite;
-    /* animation-direction: reverse; */
-    animation-timing-function: ease-out;
-    position: absolute;
+    position: relative;
+    animation: spin 2s linear infinite;
+
 }
 
-@keyframes animate1 {
-    from {
-        width: 100px;
-        background-color: coral;
-        top: 0;
+.box::before,
+.box::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 35px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #3498db;
+    animation: bounce 2s infinite ease-in-out;
+}
 
+.box::after {
+    left: -35px;
+    background: #e74c3c;
+}
+
+@keyframes spin {
+    /* 0% {
+        transform: rotate(0);
+        background: #3498db
     }
 
-    to {
-        width: 500px;
-        background-color: lightblue;
-        top: 100vh;
+    50% {
+        background: #e74c3c;
+    } */
+
+    100% {
+        transform: rotate(360deg);
+        /* background: #3498db */
+    }
+}
+
+@keyframes bounce {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-30px);
     }
 }
