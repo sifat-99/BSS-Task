@@ -13,6 +13,14 @@
     --dark-color: #272d35;
 }
 
+.text-primary {
+    color: var(--primary-color);
+}
+
+.secondary-primary {
+    color: var(--secondary-color);
+}
+
 html,
 body {
     font-family: 'Open Sans', sans-serif;
@@ -314,7 +322,105 @@ img {
 }
 
 
+.info-container {
+    background: url('../images/audience.jpg') top center/cover no-repeat;
+    display: flex;
+}
 
+.info-content {
+    background-color: var(--primary-color);
+    color: #fff;
+    flex: 1;
+    padding: 4rem;
+}
+
+
+.info-content h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.info-content p {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+
+}
+
+.info-content ul li {
+    font-size: 1.2rem;
+    line-height: 2;
+}
+
+.info-content i {
+    margin-right: 0.5rem;
+    color: var(--secondary-color);
+}
+
+.info-left {
+    width: 50%;
+}
+
+
+
+.takeaway-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    padding: 1.5rem 0;
+}
+
+.takeaway-cards .card {
+    flex-direction: row;
+    text-align: left;
+}
+
+.takeaway-cards .card i {
+    margin-right: 1rem;
+}
+
+.details .details-flex {
+    display: flex;
+    gap: 4rem;
+    align-items: center;
+    justify-content: center;
+    padding: 0 2rem;
+}
+
+.details img {
+    width: 100%;
+    max-width: 500px;
+}
+
+.details h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.details .heading-border {
+    margin: 0;
+}
+
+.details p {
+    margin: 1rem 0 2rem;
+}
+
+.details+.details .details-flex {
+    flex-direction: row-reverse;
+}
+
+.details ul {
+    margin-bottom: 2rem;
+}
+
+.details ul li {
+    line-height: 2;
+}
+
+.details ul li i {
+    margin-right: 0.5rem;
+}
 
 @media (max-width:1200px) {
     .hero .hero-flex {
@@ -363,6 +469,17 @@ img {
         grid-template-columns: repeat(1, 1fr);
     }
 
+    .takeaway-cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .details-flex,
+    .details+.details .details-flex {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+
 }
 
 @media (max-width:768px) {
@@ -377,6 +494,26 @@ img {
     .navbar .mobile-menu-toggle {
         display: block;
         padding: 10px;
+    }
+
+    .info-container {
+        flex-direction: column;
+    }
+
+    .info-content {
+        padding: 2rem;
+    }
+
+    .info-content h2 {
+        font-size: 1.5rem;
+    }
+
+    .info-content p {
+        font-size: 1rem;
+    }
+
+    .info-left {
+        display: none;
     }
 
 
@@ -403,6 +540,10 @@ img {
 
     .summary .container {
         padding: 0;
+    }
+
+    .takeaway-cards {
+        grid-template-columns: 1fr;
     }
 
 }
