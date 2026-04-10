@@ -1,5 +1,8 @@
 # Transitions, Animation & A Little JavaScript
 
+**🔗 Presentation Website Live Demo:** [presentation-website-pink.vercel.app/#page-2](https://presentation-website-pink.vercel.app/#page-2)
+**🔗 Hamburger Menu Live Demo:** [bss-task-zvty.vercel.app](https://bss-task-zvty.vercel.app/)
+
 A creative interactive module detailing exercises on bringing standard DOM nodes actively to life.
 
 ## 📁 Tasks & Contents

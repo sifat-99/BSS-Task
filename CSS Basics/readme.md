@@ -1,5 +1,7 @@
 # CSS Basics
 
+**🔗 Challenge Live Demo:** [bss-task-1nid.vercel.app](https://bss-task-1nid.vercel.app/)
+
 A robust module detailing the foundational challenges and exercises for mastering core Cascading Style Sheets rules. 
 
 ## 📁 Tasks & Contents
