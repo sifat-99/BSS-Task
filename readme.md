@@ -117,7 +117,3 @@ A comprehensive step-by-step series of practical exercises covering all aspects 
 - [**Web Accessibility Introduction**](./Web%20Accessibility%20Introduction): Understanding the necessity of ensuring web content is accessible to all users. Focuses on ARIA labels, semantic structure benefits, standard color contrasts, and keyboard navigability
 
 <hr />
-
-<div align="center">
-  <p>Built with ❤️ targeting continuous learning, development, and excellence.</p>
-</div>
