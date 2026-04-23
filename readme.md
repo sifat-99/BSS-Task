@@ -91,10 +91,10 @@ BSS/
 
 ## ✨ Major Web Projects
 
-### [📱 Leno App](./leno-website)
+# [📱 Leno App](./leno-website)
 A fully responsive, modern landing page designed for showcasing a mobile application. Includes detailed sections for features, key takeaways, and user engagement, demonstrating mastery in layout, styling, and interactivity.
 
-# **🔗 Live Demo:** [bss-task-eight.vercel.app](https://bss-task-eight.vercel.app/)
+## **🔗 Live Demo:** [leno-app](https://bss-task-eight.vercel.app/)
 
 <div align="center">
   <h2><strong>1. Hero Section: An engaging introduction showcasing the project tagline, cross-platform download availability, and app interface mockups.</strong></h2>
@@ -173,7 +173,7 @@ A fully responsive, modern landing page designed for showcasing a mobile applica
 # [🎓 Tutor Web](./tutor%20website)
 An elegant online tutoring platform interface. Features comprehensive sections for courses, instructors, and student testimonials with a clean, educational aesthetic tailored for high-accessibility semantic web structures.
 
-# **🔗 Live Demo:** [bss-task-q4m5.vercel.app](https://bss-task-q4m5.vercel.app/)
+## **🔗 Live Demo:** [tutor-web](https://bss-task-q4m5.vercel.app/)
 
 <div align="center">
   <h2><strong>1. Hero Section: Introducing the Tutoring Platform</strong></h2>
@@ -209,16 +209,26 @@ An elegant online tutoring platform interface. Features comprehensive sections f
 </div>
 
 <details>
-<summary>📸 Load More Screenshots</summary>
+<summary>📸 Course Summary</summary>
 <br>
 <div align="center">
   <h2><strong>4. Target Audience & Key Takeaways</strong></h2>
   <div align="left" style="width: 80%; margin: 15px auto;">
     <p><strong>Key Components Displayed:</strong></p>
+<ul>
+  <li><strong>Activity &amp; Goal Tracking:</strong>
     <ul>
-      <li><strong>"Who Is This Course For?":</strong> A checklist targeting specific demographics like Web Designers, Web Developers, and Marketing Professionals.</li>
-      <li><strong>Key Takeaways Layout:</strong> A grid of visually engaging cards featuring icons (e.g., rocket icons) emphasizing the benefits of enhanced skills in web development.</li>
+      <li>Showcases a mobile UI mockup focused on fitness metrics. The interface displays tracked times for different activities (Walking, Running, Cycling) and features a prominent circular progress indicator for daily active time.</li>
+      <li>Accompanied by the heading "<strong>Start using Leno today and set your long term goals</strong>," placeholder text, and a vibrant blue "More" call-to-action (CTA) button.</li>
     </ul>
+  </li>
+  <li><strong>Calendar &amp; Task Scheduling:</strong>
+    <ul>
+      <li>Features a mobile UI mockup displaying an interactive location or event card (showing the Griffith Observatory), complete with a floating action button (<code>+</code>) for adding new tasks or events.</li>
+      <li>Accompanied by the heading "<strong>The Calendar Features helps you schedule tasks</strong>," placeholder text, and a matching "More" CTA button.</li>
+    </ul>
+  </li>
+</ul>
   </div>
   <img src="./project-screenshot/Tutor%205.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 
