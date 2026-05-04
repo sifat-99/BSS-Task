@@ -92,76 +92,76 @@ BSS/
 # [📱 Leno App](./leno-website)
 A fully responsive, modern landing page designed for showcasing a mobile application. Includes detailed sections for features, key takeaways, and user engagement, demonstrating mastery in layout, styling, and interactivity.
 
-## **🔗 Live Demo:** [leno-app](https://bss-task-eight.vercel.app/)
+## **🔗 Live Demo:** [https://bss-task-eight.vercel.app/](https://bss-task-eight.vercel.app/)
 
+<h2><strong>1. Hero Section</strong></h2>
+<p><strong>Key Components Displayed:</strong></p>
+<ul>
+  <li><strong>Engaging Introduction:</strong> Showcasing the project tagline, cross-platform download availability, and app interface mockups.</li>
+</ul>
 <div align="center">
-  <h2><strong>1. Hero Section: An engaging introduction showcasing the project tagline, cross-platform download availability, and app interface mockups.</strong></h2>
   <img src="./project-screenshot/leno%20header.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
+
 <h2><strong>2. Features Overview: Testimonials and Key Takeaways</strong></h2>
-  <div align="left" style="width: 80%; margin: 15px auto;">
-    <p><strong>Key Components Displayed:</strong></p>
-    <ul>
-      <li><strong>Testimonials Section:</strong> A social proof area featuring three user reviews. Each review includes a circular profile picture, a short quote emphasizing time management and health benefits, and the user's name.</li>
-      <li><strong>Key Takeaways:</strong> A feature breakdown centered around a mobile application mockup that displays a map interface and health data metrics (like heart rate graphs).
-      </li>
-    </ul>
-  </div>
-
-
+<p><strong>Key Components Displayed:</strong></p>
+<ul>
+  <li><strong>Testimonials Section:</strong> A social proof area featuring three user reviews. Each review includes a circular profile picture, a short quote emphasizing time management and health benefits, and the user's name.</li>
+  <li><strong>Key Takeaways:</strong> A feature breakdown centered around a mobile application mockup that displays a map interface and health data metrics (like heart rate graphs).</li>
+</ul>
+<div align="center">
   <img src="./project-screenshot/Leno%202.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
-  <p><strong>3. Detailed App Preview: With Descriptive Sections</strong></p>
-  <div align="left" style="width: 80%; margin: 15px auto;">
-    <p><strong>Key Components Displayed:</strong></p>
+<h2><strong>3. Detailed App Preview: With Descriptive Sections</strong></h2>
+<p><strong>Key Components Displayed:</strong></p>
+<ul>
+  <li><strong>Activity & Goal Tracking:</strong> Showcases a mobile UI mockup focused on fitness metrics. The interface displays tracked times for different activities (Walking, Running, Cycling) and features a prominent circular progress indicator for daily active time.
     <ul>
-      <li><strong>Activity & Goal Tracking:</strong> Showcases a mobile UI mockup focused on fitness metrics. The interface displays tracked times for different activities (Walking, Running, Cycling) and features a prominent circular progress indicator for daily active time.
-        <ul>
-          <li>Accompanied by the heading "<strong>Start using Leno today and set your long term goals</strong>," placeholder text, and a vibrant blue "More" call-to-action (CTA) button.</li>
-        </ul>
-      </li>
-      <li><strong>Calendar & Task Scheduling:</strong>
-        <ul>
-          <li>Features a mobile UI mockup displaying an interactive location or event card (showing the Griffith Observatory), complete with a floating action button (<code>+</code>) for adding new tasks or events.</li>
-          <li>Accompanied by the heading "<strong>The Calendar Features helps you schedule tasks</strong>," placeholder text, and a matching "More" CTA button.</li>
-        </ul>
-      </li>
+      <li>Accompanied by the heading "<strong>Start using Leno today and set your long term goals</strong>," placeholder text, and a vibrant blue "More" call-to-action (CTA) button.</li>
     </ul>
-  </div>
+  </li>
+  <li><strong>Calendar & Task Scheduling:</strong>
+    <ul>
+      <li>Features a mobile UI mockup displaying an interactive location or event card (showing the Griffith Observatory), complete with a floating action button (<code>+</code>) for adding new tasks or events.</li>
+      <li>Accompanied by the heading "<strong>The Calendar Features helps you schedule tasks</strong>," placeholder text, and a matching "More" CTA button.</li>
+    </ul>
+  </li>
+</ul>
+<div align="center">
   <img src="./project-screenshot/Leno%203.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 <details>
 <summary style="font-size: 20px; font-weight: bold; border: 1px solid #888; padding: 15px; border-radius: 5px; cursor: pointer;">📸 See more screenshots</summary>
 <br>
+<h2><strong>4. User Statistics & Engaging Dynamic Layout</strong></h2>
+<p><strong>Key Components Displayed:</strong></p>
+<ul>
+  <li><strong>Displayed some screenshot of leno app</strong></li>
+</ul>
 <div align="center">
-  <h2><strong>4. User Statistics & Engaging Dynamic Layout</strong></h2>
-  <div align="left" style="width: 80%; margin: 15px auto;">
-    <p><strong>Key Components Displayed:</strong></p>
-    <ul>
-      <li><strong>Displayed some screenshot of leno app</strong></li>
-    </ul>
-  </div>
   <img src="./project-screenshot/Leno%204.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
-  <h2><strong>1. Extra Promotional Information</strong></h2>
-  <div align="left" style="width: 80%; margin: 15px auto;">
-    <p><strong>Key Components Displayed:</strong></p>
-    <ul>
-      <li><strong>App Screenshots & Video Preview:</strong> Contains a gallery of app screens and a video thumbnail to provide a sneak peek of the sleek interface.</li>
-      <li><strong>Download Section:</strong> A clear call-to-action to download the app for Apple or Android, accompanied by a final device mockup.</li>
-      <li><strong>Comprehensive Footer:</strong> Includes an "About Leno" description, quick navigation links, and social media icons.</li>
-    </ul>
-  </div>
+<h2><strong>5. Extra Promotional Information</strong></h2>
+<p><strong>Key Components Displayed:</strong></p>
+<ul>
+  <li><strong>App Screenshots & Video Preview:</strong> Contains a gallery of app screens and a video thumbnail to provide a sneak peek of the sleek interface.</li>
+  <li><strong>Download Section:</strong> A clear call-to-action to download the app for Apple or Android, accompanied by a final device mockup.</li>
+  <li><strong>Comprehensive Footer:</strong> Includes an "About Leno" description, quick navigation links, and social media icons.</li>
+</ul>
+<div align="center">
   <img src="./project-screenshot/Leno%205.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
-  <h2><strong>6. Key Takeaways Section: Emphasizing App Benefits</strong></h2>
-  <div align="left" style="width: 80%; margin: 15px auto;">
-    <p><strong>Key Components Displayed:</strong></p>
-    <ul>
-      <li><strong>Grid Breakdown of Features:</strong> Highlights core advantages such as "Real-Time Data," "Visual Editor," and "Easy Reading."</li>
-      <li><strong>Visual Layout:</strong> A centered smartphone mockup surrounded by icons and feature descriptions, demonstrating the app's robust capabilities.</li>
-    </ul>
-  </div>
+<h2><strong>6. Key Takeaways Section: Emphasizing App Benefits</strong></h2>
+<p><strong>Key Components Displayed:</strong></p>
+<ul>
+  <li><strong>Grid Breakdown of Features:</strong> Highlights core advantages such as "Real-Time Data," "Visual Editor," and "Easy Reading."</li>
+  <li><strong>Visual Layout:</strong> A centered smartphone mockup surrounded by icons and feature descriptions, demonstrating the app's robust capabilities.</li>
+</ul>
+<div align="center">
   <img src="./project-screenshot/Leno%20Key%20Takeways.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 </details>
@@ -171,89 +171,78 @@ A fully responsive, modern landing page designed for showcasing a mobile applica
 # [🎓 Tutor Web](./tutor%20website)
 An elegant online tutoring platform interface. Features comprehensive sections for courses, instructors, and student testimonials with a clean, educational aesthetic tailored for high-accessibility semantic web structures.
 
-## **🔗 Live Demo:** [tutor-web](https://bss-task-q4m5.vercel.app/)
+## **🔗 Live Demo:** [https://bss-task-q4m5.vercel.app/](https://bss-task-q4m5.vercel.app/)
 
+<h2><strong>1. Hero Section: Introducing the Tutoring Platform</strong></h2>
+<p><strong>Key Components Displayed:</strong></p>
+<ul>
+  <li><strong>Navigation Bar:</strong> A clean top menu featuring the Tutor logo, inline links (Chapters, Summary, Takeaways, Author, Contact), and social media integration.</li>
+  <li><strong>Hero Content:</strong> A compelling headline ("Create Your Own Video Courses") encouraging users to craft stunning videos, paired with a "$29 Get Course" call-to-action button and a descriptive course image.</li>
+  <li><strong>Custom Divider:</strong> An elegant SVG wave divider separating the hero section from the content below.</li>
+</ul>
 <div align="center">
-  <h2><strong>1. Hero Section: Introducing the Tutoring Platform</strong></h2>
-  <div align="left" style="width: 80%; margin: 15px auto;">
-    <p><strong>Key Components Displayed:</strong></p>
-    <ul>
-      <li><strong>Navigation Bar:</strong> A clean top menu featuring the Tutor logo, inline links (Chapters, Summary, Takeaways, Author, Contact), and social media integration.</li>
-      <li><strong>Hero Content:</strong> A compelling headline ("Create Your Own Video Courses") encouraging users to craft stunning videos, paired with a "$29 Get Course" call-to-action button and a descriptive course image.</li>
-      <li><strong>Custom Divider:</strong> An elegant SVG wave divider separating the hero section from the content below.</li>
-    </ul>
-  </div>
   <img src="./project-screenshot/Tutor.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
-  <h2><strong>2. Course Categories & Learning Paths</strong></h2>
-  <div align="left" style="width: 80%; margin: 15px auto;">
-    <p><strong>Key Components Displayed:</strong></p>
-    <ul>
-      <li><strong>"What Will You Learn?" Section:</strong> A grid layout detailing various learning objectives such as "Set Clear Objectives," "Plan Layout," and "Sketch Creative Concepts."</li>
-      <li><strong>Visual Cues:</strong> Each topic is paired with a specific descriptive image to visually reinforce the learning outcome.</li>
-    </ul>
-  </div>
+<h2><strong>2. Course Categories & Learning Paths</strong></h2>
+<p><strong>Key Components Displayed:</strong></p>
+<ul>
+  <li><strong>"What Will You Learn?" Section:</strong> A grid layout detailing various learning objectives such as "Set Clear Objectives," "Plan Layout," and "Sketch Creative Concepts."</li>
+  <li><strong>Visual Cues:</strong> Each topic is paired with a specific descriptive image to visually reinforce the learning outcome.</li>
+</ul>
+<div align="center">
   <img src="./project-screenshot/Tutor%202.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
-  <h2><strong>3. Detailed Course Listings & Features</strong></h2>
-  <div align="left" style="width: 80%; margin: 15px auto;">
-    <p><strong>Key Components Displayed:</strong></p>
-    <ul>
-      <li><strong>Main Course Chapters:</strong> Highlights the core concepts like "Setting Clear Objectives," "Content Creation Strategies," and "Coding Essentials" using clear typography and custom icons.</li>
-      <li><strong>Course Summary:</strong> A structured text breakdown providing detailed insights into each sub-chapter, ensuring students know exactly what they will learn.</li>
-    </ul>
-  </div>
+<h2><strong>3. Detailed Course Listings & Features</strong></h2>
+<p><strong>Key Components Displayed:</strong></p>
+<ul>
+  <li><strong>Main Course Chapters:</strong> Highlights the core concepts like "Setting Clear Objectives," "Content Creation Strategies," and "Coding Essentials" using clear typography and custom icons.</li>
+  <li><strong>Course Summary:</strong> A structured text breakdown providing detailed insights into each sub-chapter, ensuring students know exactly what they will learn.</li>
+</ul>
+<div align="center">
   <img src="./project-screenshot/Tutor%203.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 <details>
 <summary style="font-size: 20px; font-weight: bold; border: 1px solid #888; padding: 15px; border-radius: 5px; cursor: pointer;">📸 See more screenshots</summary>
 <br>
-<div align="center">
-  <h2><strong>4. Target Audience & Key Takeaways</strong></h2>
-  <div align="left" style="width: 80%; margin: 15px auto;">
-    <p><strong>Key Components Displayed:</strong></p>
+<h2><strong>4. Target Audience & Key Takeaways</strong></h2>
+<p><strong>Key Components Displayed:</strong></p>
 <ul>
-  <li><strong>Activity &amp; Goal Tracking:</strong>
-    <ul>
-      <li>Showcases a mobile UI mockup focused on fitness metrics. The interface displays tracked times for different activities (Walking, Running, Cycling) and features a prominent circular progress indicator for daily active time.</li>
-      <li>Accompanied by the heading "<strong>Start using Leno today and set your long term goals</strong>," placeholder text, and a vibrant blue "More" call-to-action (CTA) button.</li>
-    </ul>
-  </li>
-  <li><strong>Calendar &amp; Task Scheduling:</strong>
-    <ul>
-      <li>Features a mobile UI mockup displaying an interactive location or event card (showing the Griffith Observatory), complete with a floating action button (<code>+</code>) for adding new tasks or events.</li>
-      <li>Accompanied by the heading "<strong>The Calendar Features helps you schedule tasks</strong>," placeholder text, and a matching "More" CTA button.</li>
-    </ul>
-  </li>
+  <li><strong>Target Audience:</strong> Clearly defines who the platform is built for, outlining key user groups and expected benefits.</li>
+  <li><strong>Key Takeaways:</strong> Summarizes the main features and educational value provided by the video courses.</li>
 </ul>
-  </div>
+<div align="center">
   <img src="./project-screenshot/Tutor%205.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
-  <h2><strong>5. Key Takeaways</strong></h2>
-  <div align="left" style="width: 80%; margin: 15px auto;">
-    Showing some card grids of key points
-  </div>
+<h2><strong>5. Key Takeaways</strong></h2>
+<p><strong>Key Components Displayed:</strong></p>
+<ul>
+  <li><strong>Key Points:</strong> Showing some card grids of key points highlighting platform benefits and features.</li>
+</ul>
+<div align="center">
   <img src="./project-screenshot/Tutor%206.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
-  <h2><strong>6. Author Information and Statistics</strong></h2>
-  <div align="left" style="width: 80%; margin: 15px auto;">
-    <p><strong>Key Components Displayed:</strong></p>
-    <ul>
-      <li><strong>Author Information:</strong> Shows the author's name, title, and social media links.</li>
-      <li><strong>Statistics:</strong> Showcases impressive platform numbers like "2000+ Happy Users," "358+ Issues Solved," and "900+ Good Reviews" to build trust.</li>
-    </ul>
-  </div>
+<h2><strong>6. Author Information and Statistics</strong></h2>
+<p><strong>Key Components Displayed:</strong></p>
+<ul>
+  <li><strong>Author Information:</strong> Shows the author's name, title, and social media links.</li>
+  <li><strong>Statistics:</strong> Showcases impressive platform numbers like "2000+ Happy Users," "358+ Issues Solved," and "900+ Good Reviews" to build trust.</li>
+</ul>
+<div align="center">
   <img src="./project-screenshot/Tutor%207.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
-  <h2><strong>7. Footer Section with Navigation & Contact</strong></h2>
-  <div align="left" style="width: 80%; margin: 15px auto;">
-    <p><strong>Key Components Displayed:</strong></p>
-    <ul>
-      <li><strong>Newsletter Subscription:</strong> A form designed to capture user emails for updates and insights.</li>
-      <li><strong>Social Media Links & Footer:</strong> Prominent social icons (Facebook, Twitter, Instagram, LinkedIn, YouTube, Pinterest) alongside essential platform links (Terms, Privacy, Contact).</li>
-    </ul>
-  </div>
+<h2><strong>7. Footer Section with Navigation & Contact</strong></h2>
+<p><strong>Key Components Displayed:</strong></p>
+<ul>
+  <li><strong>Newsletter Subscription:</strong> A form designed to capture user emails for updates and insights.</li>
+  <li><strong>Social Media Links & Footer:</strong> Prominent social icons (Facebook, Twitter, Instagram, LinkedIn, YouTube, Pinterest) alongside essential platform links (Terms, Privacy, Contact).</li>
+</ul>
+<div align="center">
   <img src="./project-screenshot/Tutor%208.png" width="80%" style="margin: 15px 0; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 </details>
