@@ -131,7 +131,7 @@ A fully responsive, modern landing page designed for showcasing a mobile applica
 </div>
 
 <details>
-<summary style="font-size: 20px; font-weight: bold; border: 1px solid #888; padding: 15px; border-radius: 5px; cursor: pointer;">📸 See more</summary>
+<summary style="font-size: 20px; font-weight: bold; border: 1px solid #888; padding: 15px; border-radius: 5px; cursor: pointer;">📸 See more screenshots</summary>
 <br>
 <div align="center">
   <h2><strong>4. User Statistics & Engaging Dynamic Layout</strong></h2>
@@ -207,7 +207,7 @@ An elegant online tutoring platform interface. Features comprehensive sections f
 </div>
 
 <details>
-<summary style="font-size: 20px; font-weight: bold; border: 1px solid #888; padding: 15px; border-radius: 5px; cursor: pointer;">📸 See more</summary>
+<summary style="font-size: 20px; font-weight: bold; border: 1px solid #888; padding: 15px; border-radius: 5px; cursor: pointer;">📸 See more screenshots</summary>
 <br>
 <div align="center">
   <h2><strong>4. Target Audience & Key Takeaways</strong></h2>
