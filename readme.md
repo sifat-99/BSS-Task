@@ -14,6 +14,21 @@
 </div>
 
 <br />
+  <summary><b>📋 Table of Contents</b></summary>
+
+- [✨ Major Web Projects](#-major-web-projects)
+  - [📱 Leno App](#-leno-app)
+  - [🎓 Tutor Web](#-tutor-web)
+  - [🎨 Lumina Creative Website Project](#-lumina-creative-website-project)
+  - [🏢 Project Bono](#-project-bono)
+- [📚 Learning Progression & Modules](#-learning-progression--modules)
+  - [Step 1: HTML Fundamentals](#step-1-html-fundamentals)
+  - [Step 2: CSS & Styling Core](#step-2-css--styling-core)
+  - [Step 3: Advanced Layouts & Responsive Design](#step-3-advanced-layouts--responsive-design)
+  - [Step 4: Animations & Interactivity](#step-4-animations--interactivity)
+  - [Step 5: Web Standards & Accessibility](#step-5-web-standards--accessibility)
+
+<hr>
 
 ## 📁 Project Structure
 ```text
