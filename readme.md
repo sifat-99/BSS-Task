@@ -85,26 +85,9 @@ BSS/
 └── readme.md
 ```
 
-
-  <summary><b>📋 Table of Contents</b></summary>
-
-- [✨ Major Web Projects](#-major-web-projects)
-  - [📱 Leno App](#-leno-app)
-  - [🎓 Tutor Web](#-tutor-web)
-  - [🎨 Lumina Creative Website Project](#-lumina-creative-website-project)
-  - [🏢 Project Bono](#-project-bono)
-- [📚 Learning Progression & Modules](#-learning-progression--modules)
-  - [Step 1: HTML Fundamentals](#step-1-html-fundamentals)
-  - [Step 2: CSS & Styling Core](#step-2-css--styling-core)
-  - [Step 3: Advanced Layouts & Responsive Design](#step-3-advanced-layouts--responsive-design)
-  - [Step 4: Animations & Interactivity](#step-4-animations--interactivity)
-  - [Step 5: Web Standards & Accessibility](#step-5-web-standards--accessibility)
-
-
-
 <hr />
 
-## ✨ Major Web Projects
+# ✨ Major Web Projects
 
 # [📱 Leno App](./leno-website)
 A fully responsive, modern landing page designed for showcasing a mobile application. Includes detailed sections for features, key takeaways, and user engagement, demonstrating mastery in layout, styling, and interactivity.
@@ -148,7 +131,7 @@ A fully responsive, modern landing page designed for showcasing a mobile applica
 </div>
 
 <details>
-<summary>📸 Load More Screenshots</summary>
+<summary style="font-size: 20px; font-weight: bold; border: 1px solid #888; padding: 15px; border-radius: 5px; cursor: pointer;">📸 Load More Screenshots</summary>
 <br>
 <div align="center">
   <h2><strong>4. User Statistics & Engaging Dynamic Layout</strong></h2>
@@ -224,7 +207,7 @@ An elegant online tutoring platform interface. Features comprehensive sections f
 </div>
 
 <details>
-<summary>📸 Course Summary</summary>
+<summary style="font-size: 20px; font-weight: bold; border: 1px solid #888; padding: 15px; border-radius: 5px; cursor: pointer;">📸 Load More Screenshots</summary>
 <br>
 <div align="center">
   <h2><strong>4. Target Audience & Key Takeaways</strong></h2>
